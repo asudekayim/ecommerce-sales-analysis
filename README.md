@@ -6,7 +6,7 @@ Bu proje, bir e-ticaret sitesine ait veri seti üzerinden müşteri davranışla
 
 Projede Python programlama dili ile birlikte Pandas, NumPy ve Matplotlib kütüphaneleri kullanılmıştır.
 
-## Dataet
+## Dataset
 
 Veri setinde 5.000 satır ve 18 sütun bulunmaktadır. Veri seti, bir e-ticaret sitesindeki müşteri davranışlarını ve satış verilerini temsil etmektedir. Veri seti üzerinden müşteri davranışları ve satışlar farklı değişkenlere göre analiz edilmiştir. Özellikle ürün kategorisi, şehir, toplam satış tutarı, tarih ve müşteri durumu gibi değişkenler üzerinde durulmuştur.
 
