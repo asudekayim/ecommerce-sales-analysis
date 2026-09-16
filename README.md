@@ -43,9 +43,11 @@ Analiz sonuçlarının daha anlaşılır hale getirilmesi amacıyla Matplotlib k
 ecommerce-sales-analysis/
 
 ├── data/
+
 │ └── sales.csv
 
 ├── notebooks/
+
 │ └── analysis.ipynb
 
 └── README.md
