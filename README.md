@@ -41,10 +41,13 @@ Analiz sonuçlarının daha anlaşılır hale getirilmesi amacıyla Matplotlib k
 ## Project Structure
 
 ecommerce-sales-analysis/
+
 ├── data/
 │ └── sales.csv
+
 ├── notebooks/
 │ └── analysis.ipynb
+
 └── README.md
 
 ## How to Run
